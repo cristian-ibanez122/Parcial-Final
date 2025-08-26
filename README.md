@@ -59,7 +59,3 @@ El sistema se organiza en varios elementos:
 6. Ciclos For  
    Se utilizan para recorrer listas y arreglos, procesando varios pedidos a la vez.
 
-
-
-   ```bash
-   node app.js
